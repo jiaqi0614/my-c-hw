@@ -9,13 +9,13 @@ int main() {
     scanf("%f",&number);
     
     if (number > 0){
-        printf("正数\n");
+        printf("正数");
         }
     else if (number < 0) {
-        printf("负数\n");
+        printf("负数");
         }
     else {
-        printf("零\n");
+        printf("零");
         }
 
 return 0;
