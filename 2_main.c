@@ -15,7 +15,7 @@ int main() {
         printf("负数\n");
         }
     else {
-        printf("0\n");
+        printf("零\n");
         }
 
 return 0;
